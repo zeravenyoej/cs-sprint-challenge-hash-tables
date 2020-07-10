@@ -1,4 +1,4 @@
-pull request: 
+pull request: https://github.com/zeravenyoej/cs-sprint-challenge-hash-tables/pull/1
 # Sprint Challenge: Hash Tables 
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
